@@ -1,8 +1,7 @@
 <h1>Hi, I’m Anna. </h1>
 <p>
- I am a Senior Inclusive Designer that specializes in building inclusive products. With over ten years of experience, I am dedicated to creating scalable systems to support accessible and inclusive practices across digital product teams. Currently, I am a Senior Designer at Microsoft focusing on accessibility and inclusion for Azure and an M.S. student in Creative Technology & Design at the ATLAS Institute of CU-Boulder.
+ For more than a decade, I’ve partnered with organizations to strengthen product quality, reduce operational and legal risk, and embed accessibility directly into their digital infrastructure. I build scalable systems and frameworks that enable teams to ship higher-quality products with greater clarity, less rework, and far less chaos.
 </p>
-<p>I am currently taking time to dig deeper into HTML, CSS, and JavaScript, as well as learn Unity and C++ in my graduate studies. I'm excited to work on my interdisciplinary skills.<p>
   <p> If you're looking at my work here, please be kind. 💖</p>
 
 <!---
