@@ -1,6 +1,6 @@
 <h1>Hi, I’m Anna. </h1>
 <p>
- For more than a decade, I’ve partnered with organizations to strengthen product quality, reduce operational and legal risk, and embed accessibility directly into their digital infrastructure. I build scalable systems and frameworks that enable teams to ship higher-quality products with greater clarity, less rework, and far less chaos.
+I'm a systems and platform designer with 10+ years building the durable, scalable foundations that complex products run on. My work spans upstream system decisions, including shared patterns, component architecture, interaction models, and governance, plus the design and code prototypes that test whether those decisions actually hold up in practice.
 </p>
   <p> If you're looking at my work here, please be kind. 💖</p>
 
